@@ -1,0 +1,48 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11767</md:content-id>
+  <md:title>Test Book 1</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>7c5cf288-3bfc-4f71-8f2a-8f10cebe6a7c</md:uuid>
+<md:slug>test-book-1</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Test Chapter 1</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53211"/>
+        
+      
+    
+    
+      <col:module document="m14579"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

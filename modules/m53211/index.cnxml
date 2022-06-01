@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>TEST!</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53211</md:content-id>
+  <md:title>TEST!</md:title>
+  <md:abstract/>
+  <md:uuid>ae589c4c-6485-4b52-ba67-76b08b33c1fd</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id3996224" class="how-to"><media id="fs-id1165439675816" alt="."><image mime-type="image/jpg" src="../../media/Screen Shot 2016-12-15 at 11.18.01 AM.png"/></media></note>
+  <para id="eip-676"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>aqua</m:mtext><m:mo>(</m:mo><m:mn mathcolor="aqua">2</m:mn><m:mo>)</m:mo></m:mrow></m:math></para><para id="eip-788"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>red</m:mtext><m:mo>(</m:mo><m:mn mathcolor="red">2</m:mn><m:mo>)</m:mo></m:mrow></m:math></para><para id="eip-427"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>blue</m:mtext><m:mo>(</m:mo><m:mn mathcolor="blue">2</m:mn><m:mo>)</m:mo></m:mrow></m:math></para><para id="eip-815"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>green</m:mtext><m:mo>(</m:mo><m:mn mathcolor="green">2</m:mn><m:mo>)</m:mo></m:mrow></m:math></para><para id="eip-312"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>yellow</m:mtext><m:mo>(</m:mo><m:mn mathcolor="yellow">2</m:mn><m:mo>)</m:mo></m:mrow></m:math></para><para id="eip-637"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>purple</m:mtext><m:mo>(</m:mo><m:mn mathcolor="purple">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>60C PURPLE</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#60C">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>#009933 GREEN</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#009933">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>fuchsia</m:mtext><m:mo>(</m:mo><m:mn mathcolor="fuchsia">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>#FF0000 RED</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#FF0000">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/></para><para id="eip-93"><m:math><m:mrow><m:mo>=</m:mo><m:mtext>#FF9 YELLOW</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#FF9">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>#3366CC DARK BLUE</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#3366CC">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>E6E6FA LAVENDER</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#E6E6FA">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/>
+
+<m:math><m:mrow><m:mo>=</m:mo><m:mtext>DCDCDC GREY</m:mtext><m:mo>(</m:mo><m:mn mathcolor="#DCDCDC">2</m:mn><m:mo>)</m:mo></m:mrow></m:math><newline/><newline/></para></content>
+
+</document>
